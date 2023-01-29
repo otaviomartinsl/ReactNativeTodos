@@ -4,15 +4,15 @@ Esse projeto foi desenvolvido para obter conhecimentos a respeito do framework N
 
 # Funcionalidades
 
-Cadastro de tarefa
+* Cadastro de tarefa
 
-Listagem de tarefas
+* Listagem de tarefas
 
-Listagem de tarefa por id
+* Listagem de tarefa por id
 
-Edição de tarefa
+* Edição de tarefa
 
-Exclusão de tarefa
+* Exclusão de tarefa
 
 # Páginas
 
